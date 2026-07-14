@@ -62,7 +62,7 @@ Solutions and walkthroughs: RSA low-exponent cube-root attack, ECDSA/LCG nonce r
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4rthur-Root&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=4rthur-Root&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
