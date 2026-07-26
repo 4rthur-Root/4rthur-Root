@@ -1,8 +1,12 @@
+<p align="center">
+  <a href="./README_vf.md">🇫🇷 Lire la version française — README_vf.md</a>
+</p>
+
 <h1 align="center">Hey, I'm Adrien 👋</h1>
 <h3 align="center">Computer Engineering Student • Cybersecurity Specialization • SOC / Pentest Track</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+SOC-oriented+security+labs;Breaking+things+in+CTFs%2C+documenting+everything;Wazuh+%7C+SIEM+%7C+Network+Security+%7C+Python" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+SOC-oriented+security+labs;Breaking+things+in+CTFs[...]" />
 </p>
 
 ---
@@ -40,19 +44,19 @@
 ### 🔦 Featured Projects
 
 #### 🛰️ [NYX](https://github.com/4rthur-Root/NYX) — SIEM Correlation Engine + SOAR
-Python-based SIEM correlation engine with automated SOAR response: stateful multi-source log analysis, YAML-defined detection rules, YARA integration, and a Grafana dashboard for real-time visibility.
+Python-based SIEM correlation engine with automated SOAR response: stateful multi-source log analysis, YAML-defined detection rules, YARA integration, and a Grafana dashboard for real-time visibil[...]
 `Python` `Detection Engineering` `SOAR` `YARA` `Grafana`
 
 #### 🛡️ [DevSecOps Web Lab](https://github.com/4rthur-Root/DevSecOps-web-lab) — Secured Web Stack + Kill Chain Simulation
-Automated deployment (Terraform + Ansible) of a hardened web stack: Nginx/ModSecurity WAF with 846 OWASP CRS rules in front of OWASP Juice Shop, hardened MySQL, centralized SOC monitoring via Grafana/Loki, and a full recon → SQLi → XSS → path traversal attack simulation with 12 documented root-cause fixes.
+Automated deployment (Terraform + Ansible) of a hardened web stack: Nginx/ModSecurity WAF with 846 OWASP CRS rules in front of OWASP Juice Shop, hardened MySQL, centralized SOC monitoring via Graf[...]
 `Terraform` `Ansible` `ModSecurity` `Grafana/Loki` `OWASP Top 10`
 
 #### 🧪 Blue Team Fusion Lab — SOC Portfolio Lab *(in progress)*
-Three-VM KVM/libvirt environment (Windows AD + Windows client + Fedora SIEM) simulating a full intrusion chain — LOLBin execution, encoded PowerShell persistence, Kerberoasting — each mapped to MITRE ATT&CK and detected via custom Wazuh rules + Suricata. SOAR Active Response auto-enriches alerts via VirusTotal/AbuseIPDB/Shodan and posts to Slack; closes with a full forensic timeline and incident report.
+Three-VM KVM/libvirt environment (Windows AD + Windows client + Fedora SIEM) simulating a full intrusion chain — LOLBin execution, encoded PowerShell persistence, Kerberoasting — each mapped t[...]
 `Wazuh` `Suricata` `Active Directory` `MITRE ATT&CK` `SOAR` `Forensics`
 
 #### 🖥️ Cyber Lab Manager — VM Lab Orchestrator *(private, team project)*
-Java desktop app (Swing/JavaFX) that manages VirtualBox lab environments for security analysts: groups VMs by lab, drives them via `VBoxManage`, timestamps analyst notes per VM, and exports PDF incident-ready reports. Built with a Strategy pattern (`IHypervisor`) so other hypervisors (KVM, VMware) can be added without touching the controller.
+Java desktop app (Swing/JavaFX) that manages VirtualBox lab environments for security analysts: groups VMs by lab, drives them via `VBoxManage`, timestamps analyst notes per VM, and exports PDF in[...]
 `Java 17` `SQLite` `VBoxManage` `Design Patterns`
 
 #### 🚩 CTF Write-ups
