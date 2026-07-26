@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hey, I'm Adrien 👋</h1>
-<h3 align="center">Computer Engineering Student • Cybersecurity Specialization • SOC / Pentest Track</h3>
+<h3 align="center">Computer Engineering Student • Cybersecurity enthusiast • SOC / Pentest Track</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+SOC-oriented+security+labs;Breaking+things+in+CTFs[...]" />
