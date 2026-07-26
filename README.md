@@ -16,15 +16,15 @@
 - 🎓 Computer engineering student at **École Polytechnique de Lomé**, specializing in cybersecurity
 - 🎯 Aiming for **SOC Analyst** and **Pentesting** roles
 - 🔐 Comfortable with Linux, intermediate Python, and hands-on with ARP poisoning, NTLM hash capture, SMB exploitation
-- 🧪 Active in **CTF competitions** — crypto, forensics, stego
+- 🧪 Active in **CTF competitions** - crypto, forensics, stego
 - 🛠️ Currently building **Blue Team Fusion Lab**: a 3-VM Wazuh/Suricata/AD environment with MITRE ATT&CK-mapped attack simulation and SOAR-driven OSINT enrichment
-- 🌱 Learning by shipping real, working systems — not just following tutorials
+- 🌱 Learning by shipping real, working systems - not just following tutorials
 
 ---
 
 ### 🧰 Tech & Tools
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Wazuh-3AAFEE?style=for-the-badge&logo=wazuh&logoColor=white" />
@@ -43,19 +43,19 @@
 
 ### 🔦 Featured Projects
 
-#### 🛰️ [NYX](https://github.com/4rthur-Root/NYX) — SIEM Correlation Engine + SOAR
+#### 🛰️ [NYX](https://github.com/4rthur-Root/NYX) - SIEM Correlation Engine + SOAR
 Python-based SIEM correlation engine with automated SOAR response: stateful multi-source log analysis, YAML-defined detection rules, YARA integration, and a Grafana dashboard for real-time visibil[...]
 `Python` `Detection Engineering` `SOAR` `YARA` `Grafana`
 
-#### 🛡️ [DevSecOps Web Lab](https://github.com/4rthur-Root/DevSecOps-web-lab) — Secured Web Stack + Kill Chain Simulation
+#### 🛡️ [DevSecOps Web Lab](https://github.com/4rthur-Root/DevSecOps-web-lab) - Secured Web Stack + Kill Chain Simulation
 Automated deployment (Terraform + Ansible) of a hardened web stack: Nginx/ModSecurity WAF with 846 OWASP CRS rules in front of OWASP Juice Shop, hardened MySQL, centralized SOC monitoring via Graf[...]
 `Terraform` `Ansible` `ModSecurity` `Grafana/Loki` `OWASP Top 10`
 
-#### 🧪 Blue Team Fusion Lab — SOC Portfolio Lab *(in progress)*
+#### 🧪 Blue Team Fusion Lab - SOC Portfolio Lab *(in progress)*
 Three-VM KVM/libvirt environment (Windows AD + Windows client + Fedora SIEM) simulating a full intrusion chain — LOLBin execution, encoded PowerShell persistence, Kerberoasting — each mapped t[...]
 `Wazuh` `Suricata` `Active Directory` `MITRE ATT&CK` `SOAR` `Forensics`
 
-#### 🖥️ Cyber Lab Manager — VM Lab Orchestrator *(private, team project)*
+#### 🖥️ Cyber Lab Manager - VM Lab Orchestrator *(team project)*
 Java desktop app (Swing/JavaFX) that manages VirtualBox lab environments for security analysts: groups VMs by lab, drives them via `VBoxManage`, timestamps analyst notes per VM, and exports PDF in[...]
 `Java 17` `SQLite` `VBoxManage` `Design Patterns`
 
@@ -81,5 +81,5 @@ Solutions and walkthroughs: RSA low-exponent cube-root attack, ECDSA/LCG nonce r
 
 <p align="left">
   <a href="mailto:kpodonougael@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/kpodonougael"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
