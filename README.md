@@ -1,12 +1,12 @@
 <p align="center">
-  <a href="./README_vf.md">🇫🇷 Lire la version française — README_vf.md</a>
+  <a href="./README_vf.md">🇫🇷 Lire la version française</a>
 </p>
 
 <h1 align="center">Hey, I'm Adrien 👋</h1>
 <h3 align="center">Computer Engineering Student • Cybersecurity enthusiast • SOC / Pentest Track</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+SOC-oriented+security+labs;Breaking+things+in+CTFs[...]" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+SOC-oriented+security+labs" />
 </p>
 
 ---
@@ -44,32 +44,28 @@
 ### 🔦 Featured Projects
 
 #### 🛰️ [NYX](https://github.com/4rthur-Root/NYX) - SIEM Correlation Engine + SOAR
-Python-based SIEM correlation engine with automated SOAR response: stateful multi-source log analysis, YAML-defined detection rules, YARA integration, and a Grafana dashboard for real-time visibil[...]
+Python-based SIEM correlation engine with automated SOAR response: stateful multi-source log analysis, YAML-defined detection rules, YARA integration, and a Grafana dashboard for real-time visibility.
 `Python` `Detection Engineering` `SOAR` `YARA` `Grafana`
 
 #### 🛡️ [DevSecOps Web Lab](https://github.com/4rthur-Root/DevSecOps-web-lab) - Secured Web Stack + Kill Chain Simulation
-Automated deployment (Terraform + Ansible) of a hardened web stack: Nginx/ModSecurity WAF with 846 OWASP CRS rules in front of OWASP Juice Shop, hardened MySQL, centralized SOC monitoring via Graf[...]
+Automated deployment (Terraform + Ansible) of a hardened web stack: Nginx/ModSecurity WAF with 846 OWASP CRS rules in front of OWASP Juice Shop, hardened MySQL, centralized SOC monitoring via Grafana/Loki.
 `Terraform` `Ansible` `ModSecurity` `Grafana/Loki` `OWASP Top 10`
 
-#### 🧪 Blue Team Fusion Lab - SOC Portfolio Lab *(in progress)*
-Three-VM KVM/libvirt environment (Windows AD + Windows client + Fedora SIEM) simulating a full intrusion chain — LOLBin execution, encoded PowerShell persistence, Kerberoasting — each mapped t[...]
+#### 🧪 [Blue Team Fusion Lab](https://github.com/4rthur-Root/Fusion-Lab) - SOC Portfolio Lab *(in progress)*
+Three-VM KVM/libvirt environment (Windows AD + Windows client + Fedora SIEM) simulating a full intrusion chain — LOLBin execution, encoded PowerShell persistence, Kerberoasting — each mapped to MITRE ATT&CK.
 `Wazuh` `Suricata` `Active Directory` `MITRE ATT&CK` `SOAR` `Forensics`
 
-#### 🖥️ Cyber Lab Manager - VM Lab Orchestrator *(team project)*
-Java desktop app (Swing/JavaFX) that manages VirtualBox lab environments for security analysts: groups VMs by lab, drives them via `VBoxManage`, timestamps analyst notes per VM, and exports PDF in[...]
+#### 🖥️ [Cyber Lab](https://github.com/4rthur-Root/CyberLab) - VM Lab Orchestrator *(team project)*
+Java desktop app (Swing/JavaFX) that manages VirtualBox lab environments for security analysts: groups VMs by lab, drives them via `VBoxManage`, timestamps analyst notes per VM, and exports PDF reports.
 `Java 17` `SQLite` `VBoxManage` `Design Patterns`
-
-#### 🚩 CTF Write-ups
-Solutions and walkthroughs: RSA low-exponent cube-root attack, ECDSA/LCG nonce recovery on secp256k1, disk-image forensics reconstruction, QR/XOR steganography.
-`Cryptanalysis` `Forensics` `Steganography`
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=4rthur-Root&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4rthur-Root&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://img.shields.io/github/languages/top/4rthur-Root?logo=github&style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/4rthur-Root?label=Stars&logo=github&style=for-the-badge" />
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=4rthur-Root&theme=tokyonight&hide_border=true" />
@@ -79,7 +75,7 @@ Solutions and walkthroughs: RSA low-exponent cube-root attack, ECDSA/LCG nonce r
 
 ### 📫 Reach Me
 
-<p align="left">
+<p align="center">
   <a href="mailto:kpodonougael@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/kpodonougael"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/kossigan-gael"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>

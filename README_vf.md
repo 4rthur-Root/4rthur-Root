@@ -1,3 +1,7 @@
+<p align="center">
+  <a href="./README.md">🇬🇧 Lire la version anglaise</a>
+</p>
+
 <h1 align="center">Salut, je suis Adrien 👋</h1>
 <h3 align="center">Étudiant en génie informatique • Spécialisation cybersécurité • Parcours SOC / Pentest</h3>
 
@@ -20,7 +24,7 @@
 
 ### 🧰 Tech & Outils
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Wazuh-3AAFEE?style=for-the-badge&logo=wazuh&logoColor=white" />
@@ -47,25 +51,21 @@ Moteur de corrélation SIEM en Python avec réponse SOAR automatisée : analyse 
 Déploiement automatisé (Terraform + Ansible) d'une stack web durcie : Nginx/ModSecurity WAF avec 846 règles OWASP CRS devant OWASP Juice Shop, MySQL durci, supervision SOC centralisée via Grafana/Loki...
 `Terraform` `Ansible` `ModSecurity` `Grafana/Loki` `OWASP Top 10`
 
-#### 🧪 Blue Team Fusion Lab — Laboratoire SOC (en cours)
+#### 🧪 [Blue Team Fusion Lab](https://github.com/4rthur-Root/Fusion-Lab) — Laboratoire SOC (en cours)
 Environnement 3-VM KVM/libvirt (AD Windows + client Windows + SIEM Fedora) simulant une chaîne d'intrusion complète — exécution LOLBin, persistence PowerShell encodée, Kerberoasting — chaque étape mappée sur MITRE ATT&CK...
 `Wazuh` `Suricata` `Active Directory` `MITRE ATT&CK` `SOAR` `Forensics`
 
-#### 🖥️ Cyber Lab Manager — Orchestrateur de lab VM (privé, projet d'équipe)
+#### 🖥️ [Cyber Lab](https://github.com/4rthur-Root/CyberLab) — Orchestrateur de lab VM (privé, projet d'équipe)
 Application desktop Java (Swing/JavaFX) qui gère des environnements VirtualBox pour analystes sécurité : groupe de VMs par lab, pilotage via `VBoxManage`, notes horodatées par VM, export PDF...
 `Java 17` `SQLite` `VBoxManage` `Design Patterns`
-
-#### 🚩 Write-ups CTF
-Solutions et walkthroughs : attaque RSA exposant l'exposant bas, récupération de nonce ECDSA/LCG sur secp256k1, reconstruction forensique d'image disque, stéganographie QR/XOR.
-`Cryptanalyse` `Forensique` `Stéganographie`
 
 ---
 
 ### 📊 Statistiques GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=4rthur-Root&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4rthur-Root&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://img.shields.io/github/languages/top/4rthur-Root?logo=github&style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/4rthur-Root?label=Stars&logo=github&style=for-the-badge" />
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=4rthur-Root&theme=tokyonight&hide_border=true" />
@@ -75,7 +75,7 @@ Solutions et walkthroughs : attaque RSA exposant l'exposant bas, récupération 
 
 ### 📫 Me contacter
 
-<p align="left">
+<p align="center">
   <a href="mailto:kpodonougael@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/kossigan-gael"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
