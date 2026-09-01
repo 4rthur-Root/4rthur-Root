@@ -51,9 +51,7 @@ Python-based SIEM correlation engine with automated SOAR response: stateful mult
 Automated deployment (Terraform + Ansible) of a hardened web stack: Nginx/ModSecurity WAF with 846 OWASP CRS rules in front of OWASP Juice Shop, hardened MySQL, centralized SOC monitoring via Grafana/Loki.
 `Terraform` `Ansible` `ModSecurity` `Grafana/Loki` `OWASP Top 10`
 
-#### 🧪 [Blue Team Fusion Lab](https://github.com/4rthur-Root/Fusion-Lab) - SOC Portfolio Lab *(in progress)*
-Three-VM KVM/libvirt environment (Windows AD + Windows client + Fedora SIEM) simulating a full intrusion chain — LOLBin execution, encoded PowerShell persistence, Kerberoasting — each mapped to MITRE ATT&CK.
-`Wazuh` `Suricata` `Active Directory` `MITRE ATT&CK` `SOAR` `Forensics`
+
 
 #### 🖥️ [Cyber Lab](https://github.com/4rthur-Root/CyberLab) - VM Lab Orchestrator *(team project)*
 Java desktop app (Swing/JavaFX) that manages VirtualBox lab environments for security analysts: groups VMs by lab, drives them via `VBoxManage`, timestamps analyst notes per VM, and exports PDF reports.
@@ -70,8 +68,8 @@ Java desktop app (Swing/JavaFX) that manages VirtualBox lab environments for sec
   ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=4rthur-Root&theme=monokai)
   ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=4rthur-Root&theme=monokai)
   
-  <img src="https://img.shields.io/github/languages/top/4rthur-Root?logo=github&style=for-the-badge" />
-  <img src="https://img.shields.io/github/stars/4rthur-Root?label=Stars&logo=github&style=for-the-badge" />
+ 
+  
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=4rthur-Root&theme=tokyonight&hide_border=true" />
