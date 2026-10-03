@@ -16,8 +16,7 @@
 - 🎓 Computer engineering student at **École Polytechnique de Lomé**, specializing in cybersecurity
 - 🎯 Aiming for **SOC Analyst** and **Pentesting** roles
 - 🔐 Comfortable with Linux, intermediate Python, and hands-on with ARP poisoning, NTLM hash capture, SMB exploitation
-- 🧪 Active in **CTF competitions** - crypto, forensics, stego
-- 🛠️ Currently building **Blue Team Fusion Lab**: a 3-VM Wazuh/Suricata/AD environment with MITRE ATT&CK-mapped attack simulation and SOAR-driven OSINT enrichment
+- 🧪 Active on online plateforms to keep momentum
 - 🌱 Learning by shipping real, working systems - not just following tutorials
 
 ---
@@ -43,6 +42,10 @@
 
 ### 🔦 Featured Projects
 
+#### 🖥️ [Online labs](https://github.com/4rthur-Root/Online-Labs) - *Online* plateforms hands on.
+A curated collection of my training on the different SOC plateforms, Capture the flag or Certifications. Everything is documented with a clear README and shows how I approch every topic .
+`Forensic` `Hack The Box` `TryHackMe` `Cyberdefenders`
+
 #### 🛰️ [NYX](https://github.com/4rthur-Root/NYX) - SIEM Correlation Engine + SOAR
 Python-based SIEM correlation engine with automated SOAR response: stateful multi-source log analysis, YAML-defined detection rules, YARA integration, and a Grafana dashboard for real-time visibility.
 `Python` `Detection Engineering` `SOAR` `YARA` `Grafana`
@@ -61,16 +64,6 @@ Java desktop app (Swing/JavaFX) that manages VirtualBox lab environments for sec
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=4rthur-Root&theme=monokai)
-  
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=4rthur-Root&theme=monokai)
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=4rthur-Root&theme=monokai)
-  
- 
-  
-</p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=4rthur-Root&theme=tokyonight&hide_border=true" />
 </p>
